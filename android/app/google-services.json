@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284762458335",
+    "firebase_url": "https://moneymanagement-v-01.firebaseio.com",
+    "project_id": "moneymanagement-v-01",
+    "storage_bucket": "moneymanagement-v-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284762458335:android:9ff6673fbe0e1627c6816a",
+        "android_client_info": {
+          "package_name": "com.example.hackathon_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284762458335-augqo7bvgtr7cl2tlplm9vhprmt4n5ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1R0cEjlp7EWUFndzqq2LilIwMS8XvlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284762458335-augqo7bvgtr7cl2tlplm9vhprmt4n5ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
