@@ -1,6 +1,16 @@
 # hackathon_social
 
 Kitapça Bir Kitap bağış ve satış uygulamasıdır . Satılan kitapların ücretleri de bağışlanmak üzere toplanmaktadır.
+Uygulama içi mesajlaşma ile bağış yapan ile alan kişinin iletişimi sağlanıyor.
+Kitapların kullanım bilgisi(az-orta-sıfır) de alıcıya yansıtılıyor.
+Google Api ile harita üzerinde kişinin lokasyonu hesaplanabiliyor ve alıcıya bildiriliyor.
+Karanlık Mod sayesinde göz yorulması engelleniyor.
+Bildirimler açılarak kişilerin senkron mesajlaşması sağlanıyor.
+
+
+
+
+
 ![Screenshot_1618842030](https://user-images.githubusercontent.com/61869832/115252254-ffaf1380-a133-11eb-87ad-e582e6714003.png)
 ![Screenshot_1618842040](https://user-images.githubusercontent.com/61869832/115252281-0473c780-a134-11eb-9101-7f6139ecef41.png)
 ![Screenshot_1618842044](https://user-images.githubusercontent.com/61869832/115252282-050c5e00-a134-11eb-9d77-34093bdac1cc.png)
