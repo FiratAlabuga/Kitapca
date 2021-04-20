@@ -1,6 +1,4 @@
-<h1><p align="center">BookLord</p></h1>
-
-Download the app from [here](https://drive.google.com/file/d/1tkp1OXflFCc4peFx3mF5z7tJvo9CvRGk/view?usp=sharing)
+<h1><p align="center">Kitapça</p></h1>
 
 
 ## Proje Hakkında
