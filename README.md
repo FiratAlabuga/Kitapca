@@ -1,4 +1,6 @@
-<h1><p align="center">Kitapça</p></h1>
+<h1><p align="center">BookLord</p></h1>
+
+Download the app from [here](https://drive.google.com/file/d/1tkp1OXflFCc4peFx3mF5z7tJvo9CvRGk/view?usp=sharing)
 
 
 ## Proje Hakkında
@@ -49,10 +51,13 @@ Kitabı yayınlama ekranlar dizisi ...
 
 
 
-| Fiyat Filtreleme-Karanlık Mod                                                                                                          | Karanlık Mod-Sıralama                                                                                                                   | Karanlık Mod-İlan Detay                                                                                                                          |
+| Fiyat Filtreleme-Karanlık Mod                                                                                                          | Karanlık Mod-Sıralama                                                                                                               | Karanlık Mod-İlan Detay                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://user-images.githubusercontent.com/61869832/115252305-08074e80-a134-11eb-8e33-ed555e78e40c.png" style="zoom:25%;" /> | <img src="https://user-images.githubusercontent.com/61869832/115252308-09387b80-a134-11eb-9cde-021026ecef2b.png" style="zoom:25%;" /> | <img src="https://user-images.githubusercontent.com/61869832/115252319-09d11200-a134-11eb-8639-667f6391a23b.png" style="zoom:25%;" /> |
-| **Karanlık Mod-Profil**                                                                                                             | 
-| <img src="https://user-images.githubusercontent.com/61869832/115252302-076eb800-a134-11eb-99c5-fd83b3646904.png" style="zoom:25%;" /> |
-
+| **Profil-Karanlık Mod**                                                                                                             | **Karanlık Mod-Başka İlan Detay**                                                                                                       | **İlanı Sil ve Satıldı Olarak İşaretle-Karanlık Mod**                                                                                 |
+| <img src="https://user-images.githubusercontent.com/61869832/115252302-076eb800-a134-11eb-99c5-fd83b3646904.png" style="zoom:25%;" /> | <img src="https://user-images.githubusercontent.com/61869832/115385509-e57f3f00-a1e0-11eb-8d1b-fc09cd44b683.png" style="zoom:25%;" /> | <img src="https://user-images.githubusercontent.com/61869832/115385526-e912c600-a1e0-11eb-8ffd-9714ddb80c45.png" style="zoom:25%;" /> |
+| **Arama Görünümü-Karanlık Mod**                                                                                                       | **Karanlık Mod-Başka İlan Detay**                                                                                                       | **Satıldı Olarak İşaretlensin Mi ?-Karanlık Mod**                                                                                 |
+| <img src="https://user-images.githubusercontent.com/61869832/115385547-ed3ee380-a1e0-11eb-8376-89e42efc6177.png" style="zoom:25%;" /> | <img src="https://user-images.githubusercontent.com/61869832/115385509-e57f3f00-a1e0-11eb-8d1b-fc09cd44b683.png" style="zoom:25%;" /> | <img src="https://user-images.githubusercontent.com/61869832/115385540-eb752000-a1e0-11eb-93fb-3bc5bc52e13c.png" style="zoom:25%;" /> |
+| **Profil Fotoğrafını Güncelle-Karanlık Mod**                                                                                                       |
+| <img src="https://user-images.githubusercontent.com/61869832/115385554-f039d400-a1e0-11eb-9517-b37dbc311e61.png" style="zoom:25%;" /> |
 
