@@ -11,7 +11,7 @@ Satılan kitapların da yine aynı şekilde bağışlarının toplanarak vakıfl
 - Ön uç bölümü için Google ** Flutter SDK **.
 - Konum, Sağlayıcı, firebase ve kamera gibi Flutter paketleri.
 - Kimlik doğrulama ve Google Oturum Açma için ** FirebaseAuth **
-- ** FirebaseStorage ** kullanıcının profil resimlerini, sohbetlerdeki resim mesajlarını ve kullanıcının yayınladığı reklamların resimlerini saklamak için
+- ** FirebaseStorage ** kullanıcının profil resimlerini, sohbetlerdeki resim mesajlarını ve kullanıcının yayınladığı ilanların resimlerini saklamak için
 - Kullanıcı, ürün ve sohbet verilerini depolamak için Firebase ** Cloud Firestore ** ve
 - Push bildirimleri için Firebase ** Bulut mesajlaşma **
 - Bildirim kodunu sunucu tarafına dağıtmak için Firebase ** Cloud Functions **.
